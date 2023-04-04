@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/o01573rg7b4uxow1?svg=true)](https://ci.appveyor.com/project/boroda96/postmanecho)
 ## Задача №3: Postman Echo
 
 **Важно**: эту задачу нужно выполнять в отдельном репозитории.
